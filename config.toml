@@ -1,4 +1,4 @@
-baseurl = "https://cryptoupdate.it/"
+baseurl = "/"
 title = "CryptoUpdate"
 theme = "ghostwriter"
 languageCode = "en-us"
